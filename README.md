@@ -12,4 +12,4 @@ Oii!! Me chamo Kawan Marcus
     "> Meu Github</a>
     
     </div>
-     <a href="kawanmarcus470@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+     <div><a href="kawanmarcus470@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a> </div>
