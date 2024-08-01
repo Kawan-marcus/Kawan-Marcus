@@ -19,5 +19,7 @@ Oii!! Me chamo Kawan Marcus
   <a href="https://www.linkedin.com/in/kawan-marcus-43b356300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
   </a>
+   <a href="https://www.instagram.com/kawan_mrcs/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""> </a>
 </div>
 
