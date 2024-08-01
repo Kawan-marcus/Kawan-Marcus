@@ -29,3 +29,4 @@
 </div><br/>
 Gosto muito de programar e estar aprendendo coisas novas!
 
+![Kawan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawan-Marcus&show_icons=true&theme=radical)
