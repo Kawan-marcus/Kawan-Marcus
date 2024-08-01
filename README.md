@@ -14,5 +14,5 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""> </a>
 </div>
 
-<h1> <b> Tecnologias que eu uso no dia a dia </b></h1>
+<h2> <b> Tecnologias que eu uso no dia a dia </b></h2>
 
