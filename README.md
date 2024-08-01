@@ -1,9 +1,7 @@
 Oii!! Me chamo Kawan Marcus
 
 
-    <div>    <a href="https://github.com/Kawan-marcus
-    "> Meu Github</a>
-    </div>
+    
     
   <div style="display: flex; gap: 10px;">
   <a href="mailto:kawanmarcus470@gmail.com" target="_blank">
