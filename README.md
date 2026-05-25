@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Kawan Marcus
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Ciência da computação
 
 💻 Desenvolvedor apaixonado por tecnologia, com foco em Java, Spring Boot e C# .NET. Também possuo experiência em desenvolvimento web utilizando HTML, CSS e JavaScript.
 
