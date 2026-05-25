@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da computação
 
-💻 Desenvolvedor apaixonado por tecnologia, com foco em Java, Spring Boot e C# .NET. Também possuo experiência em desenvolvimento web utilizando HTML, CSS e JavaScript.
+💻 Desenvolvedor apaixonado por tecnologia, com foco em Java, Spring Boot e C# .NET. Também possuo conhecimento em desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 🚀 Estou sempre em busca de novos desafios, aprendendo continuamente e desenvolvendo projetos que fortalecem minhas habilidades em programação e desenvolvimento de software.
 
